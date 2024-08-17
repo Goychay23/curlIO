@@ -1,4 +1,3 @@
-  GNU nano 8.1                                                                                                     README.md                                                                                                      Modified  
 CURLIO is an advanced http library. It comes with the genhttpv1library collection that offers advanced features. curlio has multiple functions. It takes its basic structure from libraries like curl.
 #example usage                  
 
